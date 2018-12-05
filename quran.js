@@ -177,4 +177,4 @@ collector7.on('collect', r => {
 })
 }
 });
-client.login("Token | التوكن");
+client.login("NTE5NDE1MzcwMDUwNjk5MjY1.DulsPw.Ir8NC9bjhE1t8tFdnKPJ7Nsvcrg");
